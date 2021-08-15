@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
-import colors from '../../colors'
+import colors from '../../utils/style/colors'
 
 const CardLabel = styled.span`
     color: #584e4;
